@@ -1,0 +1,14 @@
+body{font-family: Arial, Helvetica, sans-serif;}
+.container{border: 2px solid black;
+           width: 600px;
+           margin: auto;
+           padding: 10px;} 
+.header {text-align: center;
+         position: relative;
+        padding: 20px;}
+.title{color: red;
+       text-align: center;}
+.link{color: green;
+      text-align: right;
+      font-style: italic;}
+.content{padding: 10px;}
